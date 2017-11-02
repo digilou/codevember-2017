@@ -1,0 +1,21 @@
+/* background created with CSS-matic http://www.cssmatic.com/noise-texture */
+body {
+  background: url('https://github.com/digilou/codevember-2017/blob/master/day2/img-noise-1600x1600.png?raw=true');
+}
+
+svg {
+  filter: drop-shadow(2px 2px 4px #222);
+}
+
+.st0{
+  fill: #42210B;
+}
+
+h1 {
+  color: #f7f7f7;
+  font-family: 'Artifika', serif;
+  font-size: 6em;
+  text-align: center;
+  text-shadow: 0 0 7px #222;
+  text-transform: uppercase;
+}
