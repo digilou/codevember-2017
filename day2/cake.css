@@ -15,7 +15,17 @@ h1 {
   color: #f7f7f7;
   font-family: 'Artifika', serif;
   font-size: 6em;
+  padding: 0;
   text-align: center;
   text-shadow: 0 0 7px #222;
   text-transform: uppercase;
+}
+
+main {
+  margin: 0 auto;
+  max-width: 21em;
+}
+
+pre {
+  line-height: 1.5;
 }
