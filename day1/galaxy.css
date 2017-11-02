@@ -1,0 +1,36 @@
+body {
+  background: #222 url("https://github.com/digilou/codevember-2017/blob/master/day1/cosmos-1845140_1920.jpg?raw=true") no-repeat;
+  background-size: stretch;
+  background-position: center;
+  color: #fff;
+}
+svg {
+  opacity: .7;
+}
+.st0,
+.st1,
+.st2,
+.st3 {
+  stroke: currentColor;
+  stroke-miterlimit:10;
+}
+.st1,
+.st2 {
+  fill: currentColor;
+}
+.st0{
+  stroke-width:15;
+}
+.st2{
+  stroke-width:10;
+}
+.st3{
+  stroke-width:12;
+}
+
+@media screen and (min-width: 45em) {
+  svg {
+    height: 60vh;
+    padding: 5em 18em;
+  }
+}
