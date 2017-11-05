@@ -1,0 +1,21 @@
+body {
+  background: linear-gradient(65deg, #232B7C 25%, #7276A6 50%, #232B7C) no-repeat;
+  display: flex;
+  flex-direction: column;
+}
+h1 {
+  color: white;
+  font-family: 'Kurale', serif;
+  font-size: 5em;
+  line-height: .7;
+  text-align: center;
+}
+h1 span {
+  font-size: 45%;
+  font-weight: normal;
+  margin-right: -.5em;
+}
+svg {
+  margin: 0 auto;
+  transform: rotate(-25deg);
+}
