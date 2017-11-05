@@ -1,0 +1,27 @@
+:root {
+  --dark-blue: #0B0A1C;
+  --bright-blue: #0163F8;
+  --light-blue: #C1E0FD;
+  --shine: #FFFDFF; 
+}
+
+body {
+  background: linear-gradient(to right bottom, var(--dark-blue), var(--bright-blue)) no-repeat;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+h1 {
+  color: white;
+  font-family: 'Amatic SC', cursive;
+  font-size: 5em;
+  padding: 0 .5em;
+  margin: 0;
+}
+
+@media screen and (min-width: 60em) {
+  body {
+    flex-direction: row;
+  }
+}
