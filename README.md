@@ -6,3 +6,4 @@ Files for Codevember 2017 Challenge. http://codevember.xyz
 - Day 3: [Tree](https://codepen.io/digilou/pen/WXrJrP)
 - Day 4: [Sappire](https://codepen.io/digilou/pen/yPORvg/)
 - Day 5: [Sword](https://codepen.io/digilou/pen/zPBOQj)
+- Day 6: [Storm](https://codepen.io/digilou/pen/EbydVN)
