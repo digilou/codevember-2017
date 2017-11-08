@@ -1,0 +1,22 @@
+:root {
+  --lightblue: lightblue;
+  --darkblue: darkblue;
+}
+body {
+  background: linear-gradient(to right top, var(--lightblue), var(--darkblue), gold);
+  border-bottom: 3em groove black;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+}
+div {
+  align-self: center;
+  filter: drop-shadow(0 0 20px rgba(0, 0, 0, .4));
+}
+text {
+  animation: drift 3s infinite ease-in;
+}
+@keyframes drift {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
