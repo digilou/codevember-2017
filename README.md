@@ -10,3 +10,4 @@ Files for Codevember 2017 Challenge. http://codevember.xyz
 - Day 7: [Pillow](https://codepen.io/digilou/pen/YEGqRJ)
 - Day 8: [Fridge](https://codepen.io/digilou/pen/jaVEde)
 - Day 9: [French Fries](https://codepen.io/digilou/pen/MObMWK/)
+- Day 10: [Rocket](https://codepen.io/digilou/pen/jayRdY)
